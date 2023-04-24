@@ -1,2 +1,0 @@
-/usr/bin/ar qc libntt-kv.a "CMakeFiles/ntt-kv.dir/src/ntt/kv/kv.cpp.o"
-/usr/bin/ranlib libntt-kv.a

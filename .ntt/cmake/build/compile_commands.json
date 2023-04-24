@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/ntt/ntt/ntt-kv/.ntt/cmake/build",
-  "command": "/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -I/home/ntt/ntt/ntt-kv/include -isystem /home/ntt/ntt/ntt-kv/.ntt/cmake/build/vcpkg_installed/x64-linux/include -std=gnu++23 -fdiagnostics-color=always -o CMakeFiles/ntt-kv.dir/src/ntt/kv/kv.cpp.o -c /home/ntt/ntt/ntt-kv/src/ntt/kv/kv.cpp",
-  "file": "/home/ntt/ntt/ntt-kv/src/ntt/kv/kv.cpp",
-  "output": "CMakeFiles/ntt-kv.dir/src/ntt/kv/kv.cpp.o"
-}
-]
