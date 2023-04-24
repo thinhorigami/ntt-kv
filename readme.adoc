@@ -1,0 +1,6 @@
+= Document Title
+ifdef::env-name[:relfilesuffix: .adoc]
+
+See the xref:document/pages.adoc[README].
+
+We could also write the link as link:README{relfilesuffix}[README].

@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+  "name": "ntt-kv",
+  "dependencies": [
+    {
+      "name": "fmt"
+    },
+    {
+      "name": "inja"
+    },
+    {
+      "name": "boost",
+      "features": ["mpi"]
+    },
+    {
+      "name": "benchmark"
+    },
+    {
+      "name": "spdlog"
+    },
+    {
+      "name": "catch2"
+    }
+  ]
+}
