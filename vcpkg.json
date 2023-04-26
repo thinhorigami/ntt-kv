@@ -9,10 +9,6 @@
       "name": "inja"
     },
     {
-      "name": "boost",
-      "features": ["mpi"]
-    },
-    {
       "name": "benchmark"
     },
     {
@@ -20,6 +16,15 @@
     },
     {
       "name": "catch2"
+    },
+    {
+      "name": "argparse"
+    },
+    {
+      "name": "ncurses"
+    },
+    {
+      "name": "boost-regex"
     }
   ]
 }
